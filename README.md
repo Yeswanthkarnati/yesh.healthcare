@@ -8,8 +8,8 @@ This is a web based application developed for health related website
 ### azure resources 1),App service 2),Azure health bot.
 
 
-*Project Link* - https://healthcareyeswanth.azurewebsites.net
-*project Demovideolink* -https://github.com/Yeswanthkarnati/yesh.healthcare/blob/main/The%20Free%20Health-Care%20Website%20Template%20_%20Home%20__%20yeswanth%20-%20Google%20Chrome%202022-11-16%2014-37-19.mp4
+## *Project Link* - https://healthcareyeswanth.azurewebsites.net
+## *project Demovideolink* -https://github.com/Yeswanthkarnati/yesh.healthcare/blob/main/The%20Free%20Health-Care%20Website%20Template%20_%20Home%20__%20yeswanth%20-%20Google%20Chrome%202022-11-16%2014-37-19.mp4
 
 
 ## ✨Features and Functionalities 
