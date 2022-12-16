@@ -31,6 +31,11 @@ This is a web based application developed for health related website
 ##Contact 
 <img width="1069" alt="contact us" src="https://user-images.githubusercontent.com/115810535/202066675-f2c17b7a-2c89-4e62-9030-6604ef20b0b7.png">
 ## Bot service.
+
+<img width="1080" alt="yash1" src="https://user-images.githubusercontent.com/115810535/208030831-4e2cb840-900f-4ce9-873d-19d8275379c1.png">
+
+<img width="1078" alt="yash2" src="https://user-images.githubusercontent.com/115810535/208030850-c0879e12-265b-4c0b-a2b8-f0d535ecf6e1.png">
+
 ## azure services.
 <img width="1080" alt="yash azure" src="https://user-images.githubusercontent.com/115810535/207654900-def04383-00ba-4228-a50c-919ebb7cbc0b.png">
 
