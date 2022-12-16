@@ -5,7 +5,7 @@ This is a web based application developed for health related website
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-### azure resources 1),static webapps 2),Azure health bot.
+### azure resources 1),App service 2),Azure health bot.
 
 
 *Project Link* - https://healthcareyeswanth.azurewebsites.net
@@ -30,6 +30,7 @@ This is a web based application developed for health related website
 <img width="1064" alt="png prodects" src="https://user-images.githubusercontent.com/115810535/202066683-0485206f-8a7d-4ee3-8931-891d164f1c00.png">
 ##Contact 
 <img width="1069" alt="contact us" src="https://user-images.githubusercontent.com/115810535/202066675-f2c17b7a-2c89-4e62-9030-6604ef20b0b7.png">
+## Bot service.
 ## azure services.
 <img width="1080" alt="yash azure" src="https://user-images.githubusercontent.com/115810535/207654900-def04383-00ba-4228-a50c-919ebb7cbc0b.png">
 
