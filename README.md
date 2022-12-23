@@ -24,10 +24,9 @@ App Services URL : https://healthcareyeswanth.azurewebsites.net
 
 ## MY WEBSITE LINK IS : https://wonderful-glacier-091a35f00.2.azurestaticapps.net
 
-
-
 ## home
-![Uploading #.1 home.png…]()<img width="1067" alt="# 2home" src="https://user-images.githubusercontent.com/115810535/209363284-78853b18-3d32-4a41-b5e4-c0691bb8e7ac.png">
+<i<img width="1069" alt="# 1 home" src="https://user-images.githubusercontent.com/115810535/209364378-044599b6-cfcb-465c-92af-a41dddf427db.png">
+<img width="1067" alt="# 2home" src="https://user-images.githubusercontent.com/115810535/209363284-78853b18-3d32-4a41-b5e4-c0691bb8e7ac.png">
 
 ## about
 <img width="1069" alt="# 1about" src="https://user-images.githubusercontent.com/115810535/209362665-1943dfd5-0ee0-4401-9675-98547c236322.png"><img width="1064" alt="# 2about" src="https://user-images.githubusercontent.com/115810535/209363479-52450e71-f19d-46d6-be5d-d4b1400ca85a.png">
