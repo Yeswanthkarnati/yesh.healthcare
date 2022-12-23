@@ -4,7 +4,7 @@
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
-Web Technologies used: HTML, CSS, JS.
+Web Technologies used: HTML, CSS,
 
 IDE: VS-Code
 
