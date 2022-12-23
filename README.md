@@ -37,7 +37,7 @@ App Services URL : https://healthcareyeswanth.azurewebsites.net
 <img width="1067" alt="# project1" src="https://user-images.githubusercontent.com/115810535/209362924-16f42a38-64b9-4338-8bf1-618b4dbfa6ec.png">
 ## contact 
 <img width="1066" alt="# contact1" src="https://user-images.githubusercontent.com/115810535/209363122-80479930-185c-4cc1-9134-0353c8a23f46.png"><img width="1064" alt="# contaact2" src="https://user-images.githubusercontent.com/115810535/209363144-c459d977-08a8-444f-9ddf-933105d2914f.png">
-## azure 
+## Azure
 <img width="1079" alt="# azure" src="https://user-images.githubusercontent.com/115810535/209363531-6321cb3e-3715-440d-8868-deb40c5f2f0b.png">
 
 
