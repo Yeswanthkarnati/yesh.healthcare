@@ -39,6 +39,8 @@ Project demo video URL:https://drive.google.com/drive/folders/1FqZYhNbpGDHyKA8zv
 ## Home 
 <img width="1069" alt="# 1 home" src="https://user-images.githubusercontent.com/115810535/209364378-044599b6-cfcb-465c-92af-a41dddf427db.png">
 <img width="1067" alt="# 2home" src="https://user-images.githubusercontent.com/115810535/209363284-78853b18-3d32-4a41-b5e4-c0691bb8e7ac.png">
+<img width="1066" alt="yash bot home" src="https://user-images.githubusercontent.com/115810535/213443832-0098fc65-af3b-4402-b009-311169102260.png">
+
 ## Home/About
 <img width="1069" alt="# 1about" src="https://user-images.githubusercontent.com/115810535/209362665-1943dfd5-0ee0-4401-9675-98547c236322.png"><img width="1064" alt="# 2about" src="https://user-images.githubusercontent.com/115810535/209363479-52450e71-f19d-46d6-be5d-d4b1400ca85a.png">
 ## Home/Service 
@@ -55,7 +57,19 @@ Project demo video URL:https://drive.google.com/drive/folders/1FqZYhNbpGDHyKA8zv
 ## Home/contact 
 
 <img width="1066" alt="# contact1" src="https://user-images.githubusercontent.com/115810535/209363122-80479930-185c-4cc1-9134-0353c8a23f46.png"><img width="1064" alt="# contaact2" src="https://user-images.githubusercontent.com/115810535/209363144-c459d977-08a8-444f-9ddf-933105d2914f.png">
+
+## HOME/Bot
+<img width="1080" alt="yash bot1" src="https://user-images.githubusercontent.com/115810535/213443737-43c766ba-bcac-4c94-976c-f1e079c26ce7.png">
+
+
+<img width="1080" alt="yash bot2" src="https://user-images.githubusercontent.com/115810535/213443758-cdbb2133-a38f-45d0-b6be-ab543d646a02.png">
+
+
+
+
 ## Azure
+
+
 
 
 
