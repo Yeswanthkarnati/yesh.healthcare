@@ -30,7 +30,9 @@ App Services URL : https://healthcareyeswanth.azurewebsites.net
 
 ............................................................................................................................................
 
-Project demo video URL:
+Project demo video URL:https://drive.google.com/drive/folders/1FqZYhNbpGDHyKA8zvl7CDv_E0wmQ8PNI
+
+
 
 ## MY WEBSITE LINK IS : https://wonderful-glacier-091a35f00.2.azurestaticapps.net
 
@@ -55,9 +57,9 @@ Project demo video URL:
 <img width="1066" alt="# contact1" src="https://user-images.githubusercontent.com/115810535/209363122-80479930-185c-4cc1-9134-0353c8a23f46.png"><img width="1064" alt="# contaact2" src="https://user-images.githubusercontent.com/115810535/209363144-c459d977-08a8-444f-9ddf-933105d2914f.png">
 ## Azure
 
-<img width="1079" alt="# azure" src="https://user-images.githubusercontent.com/115810535/209363531-6321cb3e-3715-440d-8868-deb40c5f2f0b.png">
 
 
+<img width="1079" alt="yash azure" src="https://user-images.githubusercontent.com/115810535/213443141-3a59888e-ecb0-4f9a-a8af-cda67d7b8170.png">
 
 
 
