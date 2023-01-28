@@ -40,8 +40,6 @@ Project demo video URL:https:
 
 ## Home 
 
-
-
 <img width="1068" alt="yash home1" src="https://user-images.githubusercontent.com/115810535/215268087-2c769d07-477a-4a7a-aa84-822e84883f81.png">
 <img width="1064" alt="yash home2" src="https://user-images.githubusercontent.com/115810535/215268089-bfa75970-4aba-4c60-b575-d84614284d06.png">
 <img width="1067" alt="yash  home3" src="https://user-images.githubusercontent.com/115810535/215268094-ce28ed54-2e70-4376-98f0-978b573fce80.png">
@@ -50,27 +48,35 @@ Project demo video URL:https:
 
 
 ## Home/About
+
 <img width="1069" alt="# 1about" src="https://user-images.githubusercontent.com/115810535/209362665-1943dfd5-0ee0-4401-9675-98547c236322.png">
 <img width="1064" alt="# 2about" src="https://user-images.githubusercontent.com/115810535/209363479-52450e71-f19d-46d6-be5d-d4b1400ca85a.png">
+
 ## Home/Service 
 
 
 <img width="1067" alt="# service1" src="https://user-images.githubusercontent.com/115810535/209362756-c7bb41be-f043-4c6b-be80-21344550cc88.png">
 <img width="1060" alt="# service2" src="https://user-images.githubusercontent.com/115810535/209362798-a49a4c5d-41fa-4dc0-90e6-33f0d015a95d.png">
+
 ## Home/Product 
 
 
 <img width="1067" alt="# product1" src="https://user-images.githubusercontent.com/115810535/209362835-c079b1af-7631-48d4-8717-4a3a36a30fe4.png">
 <img width="1067" alt="# product2" src="https://user-images.githubusercontent.com/115810535/209362856-0a22cd70-5e7e-45bc-98a4-26b676d6f8af.png">
+
 ## Home/project 
 
 <img width="1067" alt="# project1" src="https://user-images.githubusercontent.com/115810535/209362924-16f42a38-64b9-4338-8bf1-618b4dbfa6ec.png">
+
 ## Home/contact 
 
 <img width="1066" alt="# contact1" src="https://user-images.githubusercontent.com/115810535/209363122-80479930-185c-4cc1-9134-0353c8a23f46.png">
 <img width="1064" alt="# contaact2" src="https://user-images.githubusercontent.com/115810535/209363144-c459d977-08a8-444f-9ddf-933105d2914f.png">
 
+
 ## HOME/Bot
+
+
 <img width="1080" alt="yash bot1" src="https://user-images.githubusercontent.com/115810535/213443737-43c766ba-bcac-4c94-976c-f1e079c26ce7.png">
 <img width="1080" alt="yash bot2" src="https://user-images.githubusercontent.com/115810535/213443758-cdbb2133-a38f-45d0-b6be-ab543d646a02.png">
 
