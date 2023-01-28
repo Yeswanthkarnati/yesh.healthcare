@@ -69,6 +69,8 @@ Project demo video URL:https:
 ## Home/project 
 
 <img width="1067" alt="# project1" src="https://user-images.githubusercontent.com/115810535/209362924-16f42a38-64b9-4338-8bf1-618b4dbfa6ec.png">
+<img width="1067" alt="yash  project2" src="https://user-images.githubusercontent.com/115810535/215268298-9ef849d1-35ef-4f30-b91f-3fc769000c2d.png">
+
 
 ## Home/contact 
 
