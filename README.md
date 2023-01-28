@@ -41,7 +41,9 @@ Project demo video URL:https:
 ## Home 
 
 <img width="1068" alt="yash home1" src="https://user-images.githubusercontent.com/115810535/215268087-2c769d07-477a-4a7a-aa84-822e84883f81.png">
+
 <img width="1064" alt="yash home2" src="https://user-images.githubusercontent.com/115810535/215268089-bfa75970-4aba-4c60-b575-d84614284d06.png">
+
 <img width="1067" alt="yash  home3" src="https://user-images.githubusercontent.com/115810535/215268094-ce28ed54-2e70-4376-98f0-978b573fce80.png">
 
 
